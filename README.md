@@ -3,6 +3,8 @@
 ### Hi, I'm Pedro Augusto!
 
 
+[![wakatime](https://wakatime.com/badge/user/018d3693-0b1a-453c-88b8-8cca31049f2c.svg)](https://wakatime.com/@018d3693-0b1a-453c-88b8-8cca31049f2c)
+
 
 
 <div style="display: inline-block" align="center">
