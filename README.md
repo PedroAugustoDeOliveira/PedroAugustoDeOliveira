@@ -3,7 +3,7 @@
 ### Welcome Here!
 
 
-Hi,  I'm Pedro Augusto, a Front End Developer <br>
+Hi,  I'm Pedro Augusto, Software Developer <br>
 I'm passionate about solving problems. Specially if they help others, and not only me.<br>
 
 
