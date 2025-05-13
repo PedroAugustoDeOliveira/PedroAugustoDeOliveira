@@ -10,7 +10,7 @@ I'm passionate about solving problems. Specially if they help others, and not on
 [![wakatime](https://wakatime.com/badge/user/018d3693-0b1a-453c-88b8-8cca31049f2c.svg)](https://wakatime.com/@018d3693-0b1a-453c-88b8-8cca31049f2c)
 
 
-
+## Tech Stack:
 <div style="display: inline-block" align="center">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
