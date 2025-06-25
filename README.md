@@ -26,3 +26,6 @@ I'm passionate about solving problems. Specially if they help others, and not on
   <img align="center" alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/> 
 
 </div>
+
+## Contact Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-186803349/)
