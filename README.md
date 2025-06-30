@@ -2,6 +2,7 @@
 
 ### Welcome Here!
 
+[![wakatime](https://wakatime.com/badge/user/018d3693-0b1a-453c-88b8-8cca31049f2c.svg)](https://wakatime.com/@018d3693-0b1a-453c-88b8-8cca31049f2c)
 
 Hi,  I'm Pedro Augusto, Software Developer <br>
 I'm passionate about solving problems. Specially if they help others, and not only me.<br>
